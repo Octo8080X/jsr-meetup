@@ -1,0 +1,5 @@
+{
+  "name": "@octo/jsr-meetup",
+  "version": "0.0.1",
+  "exports": "./mod.ts"
+}
